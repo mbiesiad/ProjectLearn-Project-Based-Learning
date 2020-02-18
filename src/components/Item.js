@@ -179,7 +179,7 @@ const ItemWrapper = styled.div`
       font-size: 1.2rem;
     }
     .card-content {
-      height: 15vh;
+      height: fit-content;
     }
   }
   @media only screen and (min-device-width: 768px) and (max-device-width: 1025px) {
