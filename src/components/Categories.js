@@ -59,14 +59,14 @@ const Wrapper = styled.nav`
 
 export default function Categories() {
   return (
-    <Wrapper className="row">
+    <Wrapper className="row mb-4">
       <div className="col-lg-4 col-12 d-flex flex-row justify-content-center align-items-center">
         <Link to="/programming" className="nav-linker">
           <div className="card-category d-flex flex-row align-items-center">
             <div className="icon-container text-center">
               <FontAwesomeIcon icon={faCode} />
             </div>
-            <div className="category">Programming Language</div>
+            <div className="category">Programming Lang.</div>
           </div>
         </Link>
       </div>
