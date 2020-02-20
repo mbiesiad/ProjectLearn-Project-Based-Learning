@@ -287,6 +287,20 @@ export const Items = [
       img: "img/javascript.jpg",
       tech: ["JavaScript", "CSS"],
       extURL: `https://webdesign.tutsplus.com/tutorials/build-a-simple-gantt-chart-with-css-and-javascript--cms-33813`
+    },
+    {
+      id: 42,
+      title: "Microsoft Homepage Clone",
+      img: "img/design.jpg",
+      tech: ["HTML", "CSS", "JavaScript"],
+      extURL: `https://www.youtube.com/watch?v=uKgn-To1C4Q`
+    },
+    {
+      id: 43,
+      title: "Whatsapp Clone using React Native",
+      img: "img/react.jpg",
+      tech: ["React Native", "NodeJS", "GraphQL"],
+      extURL: `https://medium.com/react-native-training/building-chatty-a-whatsapp-clone-with-react-native-and-apollo-part-1-setup-68a02f7e11`
     }
   ];
   
