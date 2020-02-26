@@ -1,11 +1,11 @@
-# Contributing to ProjectLearn
+# Współudział w ProjectLearn
 
-As this project is community-driven, feel free to open an issue (or even better, send a Pull Request) for expanding this list. Contributions are very much welcome.
+Ponieważ ten projekt jest realizowany przez społeczność, możesz otworzyć issue (lub jeszcze lepiej wysłać Pull Request) w celu rozszerzenia tej listy. Wkład jest bardzo mile widziany.
 
-## Pull Request Process
+## Proces Pull Request
 
-1. Ensure the project tutorial to be added doesn't already exist and it is of good quality (code quality, project scope & project relevance).
-2. Update the [data.js](https://github.com/Xtremilicious/ProjectLearn-Project-Based-Learning/blob/master/src/data.js) file. Links must be pointing straight to the tutorials, no URL shorteners.
-3. Update the [README.md](https://github.com/Xtremilicious/ProjectLearn-Project-Based-Learning/blob/master/README.md) with details of the new project tutorial, according to the associated programming language.
+1. Upewnij się, że samouczek projektu, który ma zostać dodany, jeszcze nie istnieje i jest dobrej jakości (jakość kodu, zakres projektu i znaczenie projektu).
+2. Zaktualizuj plik [data.js](https://github.com/Xtremilicious/ProjectLearn-Project-Based-Learning/blob/master/src/data.js). Linki muszą wskazywać bezpośrednio na samouczki, bez skracania adresów URL.
+3. Zaktualizuj [README.md](https://github.com/Xtremilicious/ProjectLearn-Project-Based-Learning/blob/master/README.md) ze szczegółami nowego samouczka projektu, zgodnie z powiązanym językiem programowania.
 
-Thank you for your contributions! If you think there is anything to improve with the guidelines or any kind of constructive criticism, please contact me at <nilarjundas@outlook.com>
+Dziękujemy za Twój wkład! Jeśli uważasz, że jest coś, co można poprawić za pomocą wytycznych lub masz jakąkolwiek konstruktywną krytykę, skontaktuj się ze mną pod adresem <nilarjundas@outlook.com>
