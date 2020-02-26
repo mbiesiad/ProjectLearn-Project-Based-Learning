@@ -1,11 +1,11 @@
-# [ProjectLearn](https://projectlearn.io) - Project Based Learning
+# [ProjectLearn](https://projectlearn.io) - Nauczanie oparte na projekcie
 https://projectlearn.io
 
-A list of programming tutorials in which learners build an application from scratch. These are divided into different primary programming languages and frameworks. Some have intermixed technologies and languages.
+Lista samouczków programowania, w których uczniowie budują aplikację od podstaw. Są one podzielone na różne podstawowe języki programowania i struktury. Niektóre mają zmieszane technologie i języki.
 
-To contribute to this list, head over to [CONTRIBUTE.md](https://github.com/Xtremilicious/ProjectLearn-Project-Based-Learning/blob/master/CONTRIBUTE.md) for more details. 
+Aby dołączyć do współtworzenia, przejdź do [CONTRIBUTE.md](https://github.com/Xtremilicious/ProjectLearn-Project-Based-Learning/blob/master/CONTRIBUTE.md) aby dowiedzieć się więcej szczegółów.
 
-## Table of Contents:
+## Spis treści:
 - [C#](#c)
 - [C/C++](#cc)
 - [Java](#java)
@@ -16,61 +16,61 @@ To contribute to this list, head over to [CONTRIBUTE.md](https://github.com/Xtre
 - [Misc](#misc)
 
 ## C#:
-- Learn C# By Building a Simple RPG Game
-- Create a Rogue-like game in C#
-- Create a Blank App with C# and Xamarin
-- Build iOS Photo Library App with C#
-- Building the CoreWiki CMS with C#
+- Naucz się języka C#, budując prostą grę RPG
+- Utwórz grę typu Rogue-like w C#
+- Utwórz pustą aplikację za pomocą C# i Xamarin
+- Zbuduj aplikację biblioteki zdjęć iOS z C#
+- Budowanie CoreWiki CMS z C#
 
 ## C/C++:
-- Build an Interpreter
-- Build Your Own Text Editor
-- How to Program an NES Game in C
-- Write an OS from scratch
-- How to Write an Emulator (CHIP-8 interpreter)
-- Game Programming with C++ and SDL
-- Write Your Own Virtual Machine
-- Tetris Tutorial in C++ Platform Independent
-- Make Breakout game in C++/OpenGL
-- Make a Voxel Engine using C/C++
+- Zbuduj interpreter
+- Zbuduj swój własny edytor tekstu
+- Jak zaprogramować grę NES w C.
+- Napisz system operacyjny od podstaw
+- Jak napisać emulator (interpreter CHIP-8)
+- Programowanie gier w C++ i SDL
+- Napisz własną maszynę wirtualną
+- Tetris Tutorial w C++ Platform Independent
+- Make Breakout game w C++/OpenGL
+- Utwórz silnik Voxel przy użyciu C/C ++
 
 ## Java:
-- Build an Interpreter in JAVA
-- Build a Simple HTTP Server with Java
-- Build an Android Flashlight App
-- Spring Boot App with User Authentication
+- Zbuduj interpreter w JAVA
+- Zbuduj prosty serwer HTTP z Javą
+- Zbuduj aplikację Android Flashlight
+- Aplikacja Spring Boot z uwierzytelnianiem użytkownika
 
 ## Python:
-- Build a Reddit Bot using Python
-- Create a Simple Python Text Editor
-- A BitTorrent client in Python
-- Barcode & QR Code Scanner using Python & OpenCV
-- Build the Game of Life using Python
-- Intro to Blockchain with Python
+- Zbuduj Bot Reddit za pomocą Pythona
+- Utwórz prosty edytor tekstu w Pythonie
+- Klient BitTorrent w Pythonie
+- Skaner kodów kreskowych i kodów QR za pomocą Python i OpenCV
+- Zbuduj grę Game of Life za pomocą Pythona
+- Wprowadzenie do Blockchain z Pythonem
 
 ## JavaScript:
-- Intro to JavaScript on the server, and APIs
-- Designing Animated Book Store with JavaScript, jQuery and CSS
-- Build a simple URL Shortener with JavaScript
-- Build a Todo List App with JavaScript
-- Creating JavaScript Animations with Anime.js
-- Build a Simple Gantt Chart with JavaScript
+- Wprowadzenie do JavaScript na serwerze i interfejsów API
+- Projektowanie animowanej księgarni z JavaScript, jQuery i CSS
+- Zbuduj prosty skracacz URL (URL Shortener) z JavaScript
+- Zbuduj aplikację Todo List z JavaScript
+- Tworzenie animacji JavaScript w Anime.js
+- Zbuduj prosty wykres Gantta z JavaScript
 
 ## Node.js:
-- Build a Simple AI Chatbot using Speech API
-- A BitTorrent Client in Node.js
-- Build A Job Scraping Web App
-- Writing a Blockchain in Node.js
+- Zbuduj prosty AI Chatbot za pomocą Speech API
+- Klient BitTorrent w Node.js
+- Zbuduj aplikację internetową Job Scraping
+- Pisanie Blockchain w Node.js
 
 ## React:
-- Social Networking Website using React
-- E-Commerce Website using React
-- Create a Job Board using React
+- Serwis społecznościowy za pomocą React
+- Witryna e-commerce wykorzystująca React
+- Utwórz tablicę zadań za pomocą React
 
 ## Misc:
 - Spotify Inspired Web Design
-- Netflix Landing Page Web Design
-- Responsive Grid CSS Website Layout
+- Projektowanie stron docelowych Netflix
+- Układ strony Responsive Grid CSS
 
 
 
